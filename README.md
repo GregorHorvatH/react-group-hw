@@ -1,1 +1,1 @@
-# GoIT React Course Homework
+# React Course Homework
